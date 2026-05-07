@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm m4 👋</h1>
+<h1 align="center">Hi, I'm Mohsen (m4) 👋</h1>
 
 <p align="center">
   <em>Backend Developer · Golang Enthusiast · Clean Architecture & Systems</em>
@@ -36,14 +36,21 @@
 
 ---
 
+### 🚧 Currently Working On
+
+- 🤖 **claude-telegram-bot** — turning Telegram into a chat frontend for AI-powered GitHub workflows
+- 🔍 Going deeper into **blockchain data pipelines** and **real-time indexing**
+
+---
+
 ### 📌 Featured Projects
 
 | Project | Description |
 | :--- | :--- |
-| [**KV-Toolbox**](https://github.com/mohsenm4/KV-Toolbox) | Key/Value utilities written in Go |
-| [**blockchain-insight**](https://github.com/mohsenm4/blockchain-insight) | Tooling for exploring blockchain data |
+| [**blockchain-insight**](https://github.com/mohsenm4/blockchain-insight) | Lightweight Ethereum block explorer in Go — REST API, WebSocket live updates, built-in caching |
+| [**claude-telegram-bot**](https://github.com/mohsenm4/claude-telegram-bot) | Telegram bot that acts as a GitHub agent — list, review, and auto-fix issues via Claude-generated PRs |
+| [**KV-Toolbox**](https://github.com/mohsenm4/KV-Toolbox) | Cross-platform GUI (Fyne) for managing BadgerDB/LevelDB key-value stores — browse, edit, attach files |
 | [**Caching-System**](https://github.com/mohsenm4/Caching-System) | A caching layer implementation in Go |
-| [**claude-telegram-bot**](https://github.com/mohsenm4/claude-telegram-bot) | Telegram bot powered by Claude |
 | [**item-store**](https://github.com/mohsenm4/item-store) | Backend store service in Go |
 
 ---
@@ -52,19 +59,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohsenm4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsenm4&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=mohsenm4&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenm4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohsenm4&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-<p align="center">
-  <em>“Simplicity is the ultimate sophistication.”</em>
 </p>
