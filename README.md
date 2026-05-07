@@ -50,8 +50,6 @@
 | [**blockchain-insight**](https://github.com/mohsenm4/blockchain-insight) | Lightweight Ethereum block explorer in Go — REST API, WebSocket live updates, built-in caching |
 | [**claude-telegram-bot**](https://github.com/mohsenm4/claude-telegram-bot) | Telegram bot that acts as a GitHub agent — list, review, and auto-fix issues via Claude-generated PRs |
 | [**KV-Toolbox**](https://github.com/mohsenm4/KV-Toolbox) | Cross-platform GUI (Fyne) for managing BadgerDB/LevelDB key-value stores — browse, edit, attach files |
-| [**Caching-System**](https://github.com/mohsenm4/Caching-System) | A caching layer implementation in Go |
-| [**item-store**](https://github.com/mohsenm4/item-store) | Backend store service in Go |
 
 ---
 
