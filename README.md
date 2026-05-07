@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mohsen%20(m4)&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
-</p>
+<h1 align="center">Hi, I'm Mohsen (m4) 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/mohsenm4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=620&lines=Backend+Developer+%C2%B7+Golang+Enthusiast;Building+Distributed+Systems+in+Go;Clean+Architecture+%E2%80%A2+Caching+%E2%80%A2+Blockchain" alt="typing" />
-  </a>
+  <em>Backend Developer · Golang Enthusiast · Clean Architecture & Systems</em>
 </p>
 
 <p align="center">
@@ -63,16 +59,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohsenm4&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsenm4&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="footer" />
 </p>
