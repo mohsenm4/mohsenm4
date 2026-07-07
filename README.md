@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I build **backend services** and **distributed systems** in Go
-- 🌱 Currently exploring **blockchain internals**, **caching strategies**, and **clean architecture**
+- 🌱 Currently exploring **blockchain internals**, **LLM tooling**, and **clean architecture**
 - 💡 I love writing code that's **simple, fast, and maintainable**
 - 📫 Reach me at: **mohsen.dev.ms@gmail.com**
 
@@ -38,7 +38,8 @@
 
 ### 🚧 Currently Working On
 
-- 🤖 **claude-telegram-bot** — turning Telegram into a chat frontend for AI-powered GitHub workflows
+- 🧩 **structllm** — typed, validated structured output for Go LLM apps (OpenAI / Claude / Ollama)
+- 📡 **eitaa-channel-bridge** — running in production, mirroring Eitaa channels into WordPress
 - 🔍 Going deeper into **blockchain data pipelines** and **real-time indexing**
 
 ---
@@ -47,11 +48,19 @@
 
 | Project | Description |
 | :--- | :--- |
-| [**blockchain-insight**](https://github.com/mohsenm4/blockchain-insight) | Lightweight Ethereum block explorer in Go — REST API, WebSocket live updates, built-in caching |
-| [**claude-telegram-bot**](https://github.com/mohsenm4/claude-telegram-bot) | Telegram bot that acts as a GitHub agent — list, review, and auto-fix issues via Claude-generated PRs |
-| [**KV-Toolbox**](https://github.com/mohsenm4/KV-Toolbox) | Cross-platform GUI (Fyne) for managing BadgerDB/LevelDB key-value stores — browse, edit, attach files |
-| [**Caching-System**](https://github.com/mohsenm4/Caching-System) | A caching layer implementation in Go |
-| [**item-store**](https://github.com/mohsenm4/item-store) | Backend store service in Go |
+| [**structllm**](https://github.com/mohsenm4/structllm) | Typed, validated LLM output for Go — define a struct, get back a typed value. Works with OpenAI, Anthropic Claude, and Ollama via JSON Schema. |
+| [**blockchain-insight**](https://github.com/mohsenm4/blockchain-insight) | Lightweight Ethereum block explorer in Go — REST API, WebSocket live updates, built-in caching. |
+| [**eitaa-channel-bridge**](https://github.com/mohsenm4/eitaa-channel-bridge) | Production-run bridge from Eitaa channels to WordPress — polls posts, classifies by hashtag, mirrors edits/deletes. |
+| [**KV-Toolbox**](https://github.com/mohsenm4/KV-Toolbox) ⭐ | Cross-platform GUI (Fyne) for managing BadgerDB / LevelDB key-value stores — browse, edit, attach files. |
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsenm4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenm4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top langs" />
+</p>
 
 ---
 
