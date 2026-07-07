@@ -53,12 +53,3 @@
 | [**eitaa-channel-bridge**](https://github.com/mohsenm4/eitaa-channel-bridge) | Production-run bridge from Eitaa channels to WordPress — polls posts, classifies by hashtag, mirrors edits/deletes. |
 | [**KV-Toolbox**](https://github.com/mohsenm4/KV-Toolbox) ⭐ | Cross-platform GUI (Fyne) for managing BadgerDB / LevelDB key-value stores — browse, edit, attach files. |
 
----
-
-### 📊 Activity
-
-<p align="center">
-  <a href="https://github.com/mohsenm4">
-    <img src="https://ghchart.rshah.org/0e75b6/mohsenm4" alt="contributions" />
-  </a>
-</p>
