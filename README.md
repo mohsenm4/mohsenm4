@@ -55,17 +55,10 @@
 
 ---
 
-### 📊 Stats
+### 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsenm4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenm4&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top langs" />
-</p>
-
----
-
-### 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohsenm4&theme=tokyonight&hide_border=true" alt="streak" />
+  <a href="https://github.com/mohsenm4">
+    <img src="https://ghchart.rshah.org/0e75b6/mohsenm4" alt="contributions" />
+  </a>
 </p>
